@@ -4,6 +4,7 @@ I have made a Mini compact Radar with display for that I have used HC-SR04 ultra
 I have prepared a custome made PCB and order it from JLCPCB.COM to get professional touch to my project
 
 3D files link
+https://www.thingiverse.com/thing:3465440
 
 Install this library in arduino IDE before compiling
 https://github.com/olikraus/ucglib
