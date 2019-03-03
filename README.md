@@ -7,3 +7,11 @@ I have prepared a custome made PCB and order it from JLCPCB.COM to get professio
 
 Install this library in arduino IDE before compiling
 https://github.com/olikraus/ucglib
+
+Arduino nano :- https://amzn.to/2Eq3tSK
+
+HC-SR04 ultrasonic sensor :- https://amzn.to/2SEU4vQ
+
+SG 90 Servo :- https://amzn.to/2NG807N
+
+1.8" ST7735 Dispaly :- https://www.aliexpress.com/item/NEW-1-8-inch-4-IO-SPI-serial-Full-Color-128x160-TFT-LCD-Display-ST7735-Module/32673683146.html
